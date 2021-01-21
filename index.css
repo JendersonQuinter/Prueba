@@ -1,0 +1,41 @@
+img{
+    width: 200px;
+    margin-top: 25px;
+    margin-left: 150px;
+}
+
+header{
+    background: gray;
+}
+
+body{
+    background: whitesmoke;
+}
+
+article{
+    text-align: justify;
+}
+
+aside{
+    text-align: justify;
+}
+
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.navegacion{
+    display: inline-block;
+    background: blue;
+    color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+nav{
+    float: right;
+    margin-right: 200px;
+    margin-top: 125px;
+}
